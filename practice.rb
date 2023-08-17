@@ -37,4 +37,3 @@ calendar_2023 = {
 puts calendar_2023["December"]
 
 
-
